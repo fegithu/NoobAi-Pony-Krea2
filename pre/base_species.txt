@@ -1,0 +1,43 @@
+__subtype_beast__ girl
+__subtype_beast__ girl
+__subtype_dragon__ girl
+__subtype_dragon__ girl
+__subtype_reptile__ girl
+__subtype_reptile__ girl
+slime girl, <lora:wizardslimev25:1.0> 
+harpy
+mermaid
+lamia
+spider girl, extra legs
+moth girl, insect wings
+centaur, centaur girl
+minotaur, cow girl, horn, hooves
+demon girl
+succubus
+vampire girl
+angel girl
+ghost girl
+dryad
+kitsune, fox girl, multiple tails
+tanuki girl
+tengu, feathered wings
+jellyfish girl
+eel girl
+anglerfish girl
+orca girl
+shark girl
+bee girl
+wasp girl
+mantis girl
+scorpion girl
+unicorn girl
+kirin girl
+chimera girl
+sphinx girl
+gorgon
+phoenix girl
+griffin girl
+void creature
+eldritch creature
+starspawn
+cosmic dragon

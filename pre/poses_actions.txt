@@ -1,0 +1,44 @@
+standing, wide stance, grounded posture
+sitting, legs crossed, regal posture
+kneeling, resting on knees, forward tilt
+lounging, reclining, side view, couch
+squatting, low center of gravity, crouching
+sitting on ground, sprawling legs, relaxed
+leaning back, head tilted back, hands behind head
+kneeling on one knee, royal salute posture
+crawling, on all fours, low posture, feral stance
+fetal position, curled up, defensive posture
+arched back, head back, flexible posture
+straddling, sitting astride, dominant posture
+sleeping, curled up, peaceful posture
+floating, mid-air, suspended, no gravity
+slouching, relaxed shoulders, lazy posture
+stretching, arms above head, yawning
+leaning forward, hand on hip, confident expression
+sitting on throne, arms on armrests, regal presence
+on all fours
+feeding birds
+holding lantern
+reading book
+playing flute
+petting familiar
+offering flower
+holding staff
+holding crystal
+holding weapon
+swinging weapon
+carrying object
+holding object
+looking at object
+
+kneeling
+standing
+sitting
+lying on back, legs spread
+squatting
+all fours
+top-down bottom-up
+reclining
+straddling, between legs
+leaning against wall
+sitting on ground

@@ -1,0 +1,9 @@
+volumetric lighting
+golden hour lighting
+blue hour/twilight
+moonlight
+glowing/bioluminescence
+dappled light/filtered light
+neon lighting
+studio lighting
+low-key lighting

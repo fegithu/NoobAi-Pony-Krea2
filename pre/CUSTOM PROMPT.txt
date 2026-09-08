@@ -1,0 +1,52 @@
+(score_9, score_8_up, score_7_up, score_6_up:1)
+
+masterpiece, best quality, newest, absurdres, amazing quality, master, alpha, newest
+
+{source_anime|source_furry|source_anime, source_furry}
+{nsfw, explicit||}
+
+female
+feminine face
+skindentation
+
+__base_species__
+{|||||||__base_species__ traits|__base_species__ traits|__base_species__ traits}
+__clothing_style__
+__clothing_accents__
+__accessories2__
+__roles__
+__expressions__
+
+__poses_actions__
+
+__art_style__
+__artists__
+__rendering_modifiers__
+
+{(__aura_vibes__:1.2)|||}
+{(__weird_anomalies__:1.3)||||}
+
+{snout|short snout|human face}
+{fur|scales|slime|feathers|}
+(long fingernails:1.3)
+
+{reading glasses|forehead jewel|helmet|mask|metal mouth mask||}
+{choker|collar|cowbell|}, {earrings|large hoop earrings|gold earrings|heart earrings|ear ornament|}
+
+__breasts__
+{twintails|drill hair|long hair|short hair|hair ornament|}
+
+{fantasy|cyberpunk|horror|ruins|inside creature|}
+__locations__
+__camera_angles__
+
+__timeofday__
+__lighting_primary__
+__lighting_ambient__
+__lighting_secondary__
+
+{cleavage cutout|front slit|front slit, side slit|open chest design|breast curtains|tabard drapery|underbust, lifted breasts, structured bodice|cat cutout|open shirt}
+
+{hands on thighs|hands up|arms behind head|grabbing own breast|breasts squeezed together|covering breasts|posing|stretching|masturbation, female masturbation, clothed masturbation, spreading own pussy|lifting own clothes|}
+
+{wet|oiled|slime \(substance\)|||}

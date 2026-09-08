@@ -1,0 +1,8 @@
+dawn
+morning
+noon
+afternoon
+evening
+dusk
+night
+midnight

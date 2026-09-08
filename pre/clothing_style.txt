@@ -1,0 +1,45 @@
+loose robes, flowing drapery, silk fabrics, open front
+oversized knit sweater, off-shoulder, chunky yarn texture
+heavy velvet gown, flowing skirts, layered drapes
+traditional kimono, loose sash, wide sleeves, trailing silk
+sheer nightgown, translucent fabric, loose drapes
+tattered cloaks, layered rags, post-apocalyptic wraps
+greek chiton, draped shoulders, loose fabric, elegant folds
+oversized hoodie, thigh-high stockings, casual loose fit
+off-the-shoulder dress, flowing satin, long train
+fur-trimmed cloak, heavy wool robes, winter layers
+
+no shirt
+tight clothes
+see-through clothes
+traditional dress
+china dress
+ancient egyptian clothes
+ancient greek clothes
+dragon scale armor
+
+korean clothes
+ao dai
+armored dress
+chest sarashi
+formal clothes
+band uniform
+kigurumi
+military uniform
+school uniform
+waitress
+
+loose_robes, robe, trailing_robes, draped_fabric
+oversized_sweater, off-shoulder_sweater, chunky_knit
+velvet_gown, long_dress, layered_dress, pleated_skirt
+traditional_kimono, wide_sleeves, loose_sash, nagajuban
+fur-trimmed_cloak, winter_coat, heavy_cape, hood_down
+greek_chiton, draped_toga, loose_fabric, off-shoulder
+oversized_hoodie, long_sleeves, hood_down
+satin_nightgown, chemise, loose_drapery, transparent_fabric
+tattered_cloak, layered_rags, bandages, distressed_fabric
+flowing_cape, strapless_dress, high-low_skirt
+harem_pants, loose_trousers, silk_sash, off-shoulder_top
+monk_robes, cowl, loose_sleeves, floor-length_dress
+double-breasted_trench_coat, open_coat, unbuttoned
+shawl, wrapped_scarf, poncho, layered_clothing

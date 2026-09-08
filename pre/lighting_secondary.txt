@@ -1,0 +1,8 @@
+rim lighting
+lens flare
+glint
+sparkle
+fire light/candlelight
+bounced lighting/reflected light
+light leaks
+duo-tone lighting

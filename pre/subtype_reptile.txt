@@ -1,0 +1,9 @@
+lizard, lizard tail, scales
+snake, snake hair, slit pupils
+viper, fangs, green scales, snake tail
+cobra, cobra hood, snake tail
+alligator, sharp teeth, alligator tail, scales
+crocodile, ridges, crocodile tail, scales
+chameleon, changing color, color shifting, chameleon tail
+dinosaur, raptor tail, clawed hands
+python, patterned scales, thick snake tail

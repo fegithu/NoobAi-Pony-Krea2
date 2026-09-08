@@ -1,0 +1,49 @@
+Forest (Temperate, Boreal, Tropical Rainforest)
+Desert (Sandy Erg, Rocky Reg, Salt Flat, Cold Desert)
+Mountain Range (Alpine, Volcanic, Karst/Limestone Peak)
+Grassland (Savanna, Steppe, Prairie, Meadow)
+Tundra (Permafrost, Taiga Edge)
+Swamp / Wetland (Marsh, Bayou, Bog, Mangrove)
+Canyon / Gorge (Rift Valley, Ravine)
+Cave / Cavern (Karst System, Lava Tube, Ice Cave)
+Badlands / Wastes (Eroded Clay, Volcanic Ash Plain)
+Oasis (Desert Spring)
+Cliff / Crag (Coastal Bluff, Inland Escarpment)
+Geothermal Field (Hot Springs, Geysers, Fumaroles)
+Ocean / Sea (Open Pelagic, Abyssal Plain)
+Coastline (Sandy Beach, Rocky Reef, Fjord, Tide Pool)
+River / Stream (Delta, Rapids, Estuary)
+Lake / Pond (Freshwater, Crater Lake, Lagoon)
+Glacier / Ice Sheet (Iceberg Field, Shelf Ice)
+Coral Reef (Atoll)
+Subterranean Sea / Sunless Lake
+Metropolis / Capital City
+Fortified Town / Citadel / Stronghold
+Village / Hamlet (Agrarian, Fishing, Mining)
+Outpost / Frontier Garrison
+Port / Harbor (Maritime, Riverport, Skyport)
+Slum / Shantytown / Undercity
+Monastery / Sanctuary / Hermitage
+Palace / Estate / Keep
+Marketplace / Bazaar / Trade District
+Industrial District / Foundry Quarter / Dockyards
+Deep-Earth Mines (Active, Abandoned)
+Buried/Sunken City
+Catacombs / Crypts / Necropolis
+Subterranean Labyrinth / Dungeon Complex
+Underground Hollows / Bioluminescent Caverns
+High Altitude & Aerial
+Sky / Atmosphere (Open Cloudscape)
+Floating Island / Archipelago in the Sky
+Mountain Peak Spire / Eyrie
+Aetherial / Astral Plane
+Crystal Desert / Glass Desert
+Floating/Inverted Terrain (Gravity-Defying)
+Void / Abyss / Null-Space
+Petrified Forest / Stone Jungle
+Chronal Distortion Zone (Time-Warped Land)
+Living Flesh Terrain / Organic Hive
+Fairy Realm / Enchanted Woods (Bioluminescent, Toxic, or Illusory)
+Ash Wasteland / Obsidian Plain
+Ruins (Ancient, Eldritch, Forgotten Civilizations)
+Scrapyard / Graveyard (Ships, Dragons, Titans)

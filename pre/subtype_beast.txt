@@ -1,0 +1,20 @@
+wolf, wolf ears, wolf tail
+arctic fox, white hair, fox ears, fox tail
+red fox, orange hair, fox ears, fox tail
+silver fox, grey hair, fox ears, fox tail
+lynx, tufted ears, short tail
+tiger, tiger stripes, tiger ears, tiger tail
+white tiger, white fur, tiger stripes, tiger tail
+lion, lion tail, lion ears
+leopard, leopard print, leopard tail
+panther, dark skin, panther ears, panther tail
+cheetah, cheetah spots, cheetah tail
+cat, cat ears, cat tail
+cow, cow girl, cow ears, cow tail, cow print
+sheep, sheep horns, fluffy hair, sheep tail
+goat, goat horns, goat eyes, goat tail
+deer, antlers, deer ears, deer tail
+rabbit, rabbit ears, short tail
+bear, bear ears, short tail
+hyena, spotted fur, hyena ears
+jackal, jackal ears

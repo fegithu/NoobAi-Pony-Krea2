@@ -1,0 +1,8 @@
+direct sunlight
+hard lighting/harsh lighting
+soft lighting/diffused light
+top light
+side lighting
+spotlight
+backlighting
+chiaroscuro/dramatic lighting

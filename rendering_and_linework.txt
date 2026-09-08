@@ -1,0 +1,30 @@
+clean thin lineart, precise contours, smooth digital rendering
+bold clean lineart, confident contours, polished cel shading
+thick expressive lineart, varied line weight, energetic character rendering
+delicate lineart, fine contours, intricate details, elegant rendering
+intricate linework, dense detail, fine hatching, carefully rendered forms
+sketchy lineart, loose construction lines, energetic pencil texture
+rough ink linework, expressive contours, imperfect hand-drawn character
+crosshatched shading, layered linework, traditional illustration texture
+soft cel shading, gentle shadow transitions, clean anime rendering
+hard cel shading, crisp shadow shapes, bold graphic rendering
+limited-palette cel shading, restrained colors, strong value separation
+flat color illustration, minimal shading, bold silhouettes, clean graphic forms
+painterly rendering, visible brushwork, soft transitions, textured surfaces
+soft painterly rendering, diffused edges, subtle tonal transitions, atmospheric depth
+highly rendered digital painting, detailed materials, complex lighting, polished finish
+matte painterly rendering, subdued texture, atmospheric depth, soft edges
+ink-heavy rendering, strong black shapes, dramatic contrast, graphic linework
+monochrome ink rendering, black and white values, intricate hatching, strong composition
+screentone shading, manga textures, controlled grayscale values, detailed linework
+halftone print texture, graphic shading, vintage printed appearance
+risograph print aesthetic, limited ink colors, grainy texture, offset print character
+screenprint aesthetic, bold shapes, limited colors, tactile print texture
+paper texture, subtle grain, traditional illustration surface
+canvas texture, visible fibers, tactile painted surface
+film grain, subtle analog texture, cinematic image character
+soft focus rendering, gentle edges, atmospheric highlights, dreamy finish
+sharp focus rendering, crisp details, high micro-contrast, polished finish
+dramatic chiaroscuro, strong light-shadow separation, theatrical illumination
+diffused natural lighting, soft shadows, realistic ambient illumination
+studio illustration lighting, controlled highlights, clean subject separation
